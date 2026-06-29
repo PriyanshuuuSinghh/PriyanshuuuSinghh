@@ -45,6 +45,41 @@
 ⚡ **Fun Fact:** I love turning ideas into real-world software.
 -->
 
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PriyanshuuuSinghh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuuuSinghh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuuuSinghh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuuuSinghh&theme=tokyo-night"/>
+
+</p>
+
+---
+
 ---
 
 # 🌐 Connect With Me
@@ -128,39 +163,7 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 * Git
 * GitHub
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PriyanshuuuSinghh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuuuSinghh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuuuSinghh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuuuSinghh&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -205,15 +208,6 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 
 ---
 
-# 💡 Quote
-
-<p align="center">
-
-> **"Code. Learn. Build. Repeat."**
-
-</p>
-
-
 # 📬 Reach Me
 
 📧 **Email:** [priyasnhu70050@gmail.com](mailto:priyasnhu70050@gmail.com)
@@ -224,14 +218,9 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 
 ---
 
-<h3 align="center">
-
-⭐ If you like my work, consider giving a ⭐ to my repositories!
-
-</h3>
 
 <p align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
+###  Keep Learning • Keep Building • Keep Growing
 
 </p>

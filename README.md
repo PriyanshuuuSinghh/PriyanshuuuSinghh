@@ -213,22 +213,6 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions later and uncomment the line below.
-
-```md
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/PriyanshuuuSinghh/PriyanshuuuSinghh/output/github-contribution-grid-snake.svg"/>
-</p>
--->
-```
-
-
----
 
 # 📬 Reach Me
 

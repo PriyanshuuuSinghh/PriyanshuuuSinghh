@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PriyanshuuuSinghh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=PriyanshuuuSinghh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> -->
 <img src="https://img.shields.io/github/followers/PriyanshuuuSinghh?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/github/stars/PriyanshuuuSinghh?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<!--# 👨‍💻 About Me
 
 🎓 **Master of Computer Applications (MCA)** 
 
@@ -43,6 +43,7 @@
 📚 Solving Data Structures & Algorithms regularly.
 
 ⚡ **Fun Fact:** I love turning ideas into real-world software.
+-->
 
 ---
 
@@ -225,6 +226,7 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 </p>
 -->
 ```
+
 
 ---
 

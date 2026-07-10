@@ -48,7 +48,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+<!--# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -56,11 +56,11 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuuuSinghh&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p>-->
 
 ---
 
-# 🔥 GitHub Streak
+<!--# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -76,7 +76,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuuuSinghh&theme=tokyo-night"/>
 
-</p>
+</p>-->
 
 ---
 
@@ -90,7 +90,7 @@
 
 ---
 
-# 🚀 Featured Projects
+<!--# 🚀 Featured Projects
 
 ## 📈 AI-Powered Investment Intelligence Platform
 
@@ -169,7 +169,7 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 
 🚀 Hands-on experience with Java, React, REST APIs and Database Design.
 
----
+----->
 
 # 📚 Current Learning Journey
 

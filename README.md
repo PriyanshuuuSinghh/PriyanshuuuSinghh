@@ -170,7 +170,7 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 🚀 Hands-on experience with Java, React, REST APIs and Database Design.
 
 ----->
-
+<!--
 # 📚 Current Learning Journey
 
 ```text
@@ -204,6 +204,8 @@ Java Servlets • JSP • AJAX • JavaScript • MySQL
 </p>
 
 ---
+----->
+
 
 ---
 
